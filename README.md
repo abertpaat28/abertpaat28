@@ -17,7 +17,7 @@
 |  :-  |  :-  |  :-  |
 | [Danny's Dinner](https://github.com/abertpaat28/SQL-Case-Studies/tree/main?tab=readme-ov-file#-case-study-no-1---dannys-dinner) | `SQL`, `Microsoft SQL Server` |  |
 | [Foodie-Fi](https://github.com/abertpaat28/SQL-Case-Studies/tree/main?tab=readme-ov-file#-case-study-no-3---foodie-fi) | `SQL`, `Microsoft SQL Server` |  |
-| [Data Rank](https://github.com/abertpaat28/SQL-Case-Studies/tree/main?tab=readme-ov-file#-case-study-no-4---data-bank) | `SQL`, `Microsoft SQL Server` |  |
+| [Data Bank](https://github.com/abertpaat28/SQL-Case-Studies/tree/main?tab=readme-ov-file#-case-study-no-4---data-bank) | `SQL`, `Microsoft SQL Server` |  |
 | [Analyze International Debt Statistics](https://github.com/abertpaat28/Datacamp-Finished-Projects#-analyze-international-debt-statistics) | `SQL`, `PostgreSQL` |  |
 | [Analyzing American Baby Name Trends](https://github.com/abertpaat28/Datacamp-Finished-Projects#-analyzing-baby-name-trends) | `SQL`, `PostgreSQL` |  |
 | [When Was the Golden Era of Video Games?](https://github.com/abertpaat28/Datacamp-Finished-Projects#-when-was-the-golden-era-of-video-games) | `SQL`, `PostgreSQL` |  |
