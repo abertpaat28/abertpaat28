@@ -1,4 +1,4 @@
-`_I am currently working on this repository to organize everything I have accomplish._`
+`_I am currently working on this repository to organize everything I accomplished._`
 | PROJECT TITLE | TOOLS/TECHNOLOGIES | SHORT DESCRIPTION |
 |  :-  |  :-  |  :-  |
 | [Decoding-Car-Sales-Insights-Into-Profitable-Models-and-Dealership-Strategies](https://github.com/abertpaat28/Decoding-Car-Sales-Insights-Into-Profitable-Models-And-Dealership-Strategies) | `Microsoft Excel`, `Power BI` |  |
