@@ -1,5 +1,6 @@
-`🔜This is a work in progress.` 
+`🔜I'm thrilled to share the projects I've completed, but I'm still working on these tables to give you a better look of my work.😊` 
 
+---
 ### <p align="center"> PORTFLIO OVERVIEW</p>
 
 | PROJECT TITLE | TOOLS/TECHNOLOGIES | SHORT DESCRIPTION |
