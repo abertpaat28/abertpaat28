@@ -7,12 +7,12 @@
 |  :-  |  :-  |  :-  |
 | [Decoding-Car-Sales-Insights-Into-Profitable-Models-and-Dealership-Strategies](https://github.com/abertpaat28/Decoding-Car-Sales-Insights-Into-Profitable-Models-And-Dealership-Strategies) | `Microsoft Excel` `Power BI` |  |
 | [Excel-Data-Transformation-Cleaning-Pivot-Tables-and-Dashboards](https://github.com/abertpaat28/Excel-Data-Transformation-Cleaning-Pivot-Tables-And-Dashboards) | `Microsoft Excel` `Pivot Table` `Pivot Chart`|  |
+| [Healthcare-Analytics-at-MGH-with-Power-Query-and-Power-BI](https://github.com/abertpaat28/Healthcare-Analytics-at-MGH-with-Power-Query-and-Power-BI) | `Power Query` `DAX` `Power BI`  |  |
 | [Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL](https://github.com/abertpaat28/Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL) | `MySQL` `SQL Workbench` `Power Query` `Power BI` |   |
 | [Exploring-Stack-Overflow-Developer-Survey-Data-With-Cognos-Analytics-Insights-And-Visualization](https://github.com/abertpaat28/Exploring-Stack-Overflow-Developer-Survey-Data-With-Cognos-Analytics-Insights-And-Visualizations) | `IBM Cognos Analytics` |  |
 | [Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup](https://github.com/abertpaat28/Data-Harvest-Scraping-Company-Info-with-Python-Pandas-and-Beautiful-Soup) | `Python` `Jupyter Notebook` |  |
 | [Python-Data-Analytics-Investigating-Annual-Income](https://github.com/abertpaat28/Python-Data-Analytics-Investigating-Annual-Income) | `Python` `Jupyter Notebook`  |  |
 | [A-Dive-into-Olympics-Data-with-SQL-and-Python](https://github.com/abertpaat28/A-Dive-into-Olympics-Data-with-SQL-and-Python) | `Python` `SQL` `MariaDB` |  |
-| [Healthcare-Analytics-at-MGH-with-Power-Query-and-Power-BI Public](https://github.com/abertpaat28/Healthcare-Analytics-at-MGH-with-Power-Query-and-Power-BI) | `Power Query` `DAX` `Power BI`  |  |
 |  |  |  |
 
 | PROJECT TITLE | TOOLS/TECHNOLOGIES | SHORT DESCRIPTION |
