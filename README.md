@@ -20,7 +20,7 @@
 | [A-Dive-into-Olympics-Data-with-SQL-and-Python](https://github.com/abertpaat28/A-Dive-into-Olympics-Data-with-SQL-and-Python) | `Python` `SQL` `MariaDB` |  |
 |  |  |  |
 
-| PROJECT TITLE | TOOLS/TECHNOLOGIES | SHORT DESCRIPTION |
+| SQL PROJECTS | TOOLS/TECHNOLOGIES | SHORT DESCRIPTION |
 |  :-  |  :-  |  :-  |
 | [Danny's Dinner](https://github.com/abertpaat28/SQL-Case-Studies/tree/main?tab=readme-ov-file#-case-study-no-1---dannys-dinner) | `SQL` `Microsoft SQL Server` |  |
 | [Foodie-Fi](https://github.com/abertpaat28/SQL-Case-Studies/tree/main?tab=readme-ov-file#-case-study-no-3---foodie-fi) | `SQL` `Microsoft SQL Server` |  |
