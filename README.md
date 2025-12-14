@@ -10,7 +10,7 @@
 
 | DATA ANALYTICS PROJECTS | TOOLS/TECHNOLOGIES | SHORT DESCRIPTION |
 |  :-  |  :-  |  :-  |
-| [Decoding-Car-Sales-Insights-Into-Profitable-Models-and-Dealership-Strategies](https://github.com/abertpaat28/Decoding-Car-Sales-Insights-Into-Profitable-Models-And-Dealership-Strategies) | `Microsoft Excel` `Power BI` |  |
+| [Decoding-Car-Sales-Insights-Into-Profitable-Models-and-Dealership-Strategies](https://github.com/abertpaat28/Decoding-Car-Sales-Insights-Into-Profitable-Models-And-Dealership-Strategies) | `Microsoft Excel` `Power BI` | Delved deeply into the dataset to identify trends and patterns, ultimately uncovering valuable insights that can facilitate business growth.  |
 | [Excel-Data-Transformation-Cleaning-Pivot-Tables-and-Dashboards](https://github.com/abertpaat28/Excel-Data-Transformation-Cleaning-Pivot-Tables-And-Dashboards) | `Microsoft Excel` `Pivot Table` `Pivot Chart`|  |
 | [Healthcare-Analytics-at-MGH-with-Power-Query-and-Power-BI](https://github.com/abertpaat28/Healthcare-Analytics-at-MGH-with-Power-Query-and-Power-BI) | `Power Query` `DAX` `Power BI`  |  |
 | [Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL](https://github.com/abertpaat28/Customer-Behavior-Analysis-and-Insights-Generation-Using-SQL) | `MySQL` `SQL Workbench` `Power Query` `Power BI` |   |
